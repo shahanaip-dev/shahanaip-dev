@@ -115,7 +115,7 @@ HTML, CSS, JavaScript
 
 
 
-## 🎨 GitHub Graphical Statistics
+## 🎨 GitHub Contribution Activity Graph
 
 <!-- 🔵 Contribution Activity Graph (Soft Gradient Style) -->
 <p align="center">
@@ -183,6 +183,7 @@ HTML, CSS, JavaScript
 ---
 
 ⭐ **Open to internships and junior full stack developer opportunities**
+
 
 
 
