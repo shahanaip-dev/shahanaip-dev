@@ -129,22 +129,29 @@ HTML, CSS, JavaScript
 
 ---
 
-<!-- 🟣 GitHub Statistics Cards (Bold & Clean Style) -->
+## 📊 GitHub Statistics
+
+<!-- Main Profile Summary -->
 <p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=shahanaip-dev&show_icons=true&bg_color=ffffff&title_color=7C3AED&icon_color=F59E0B&text_color=374151&hide_border=true"
-    alt="GitHub statistics card"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahanaip-dev&layout=donut&bg_color=ffffff&title_color=0EA5E9&text_color=374151&hide_border=true"
-    alt="Programming languages donut chart"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahanaip-dev&theme=github_dark" />
 </p>
 
-<p align="center"><i>📊 Repository statistics and most-used technologies</i></p>
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahanaip-dev&theme=github_dark&utcOffset=5.5" />
+</p>
 
+<!-- Repo & Language Stats -->
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahanaip-dev&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahanaip-dev&theme=github_dark" />
+</p>
+
+<!-- Stats Cards -->
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahanaip-dev&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahanaip-dev&theme=github_dark&utcOffset=5.5" />
+</p>
 ---
 
 <!-- 🔥 Coding Streak Graph (High-Contrast Style) -->
@@ -176,6 +183,7 @@ HTML, CSS, JavaScript
 ---
 
 ⭐ **Open to internships and junior full stack developer opportunities**
+
 
 
 
