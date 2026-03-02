@@ -29,26 +29,52 @@ I specialize in building **scalable, secure, and user-friendly web applications*
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
+
+<!-- Animated Title -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Technologies+I+Work+With;MERN+Stack+%7C+Full+Stack+Development" />
+</p>
+
+---
 
 ### 💻 Frontend
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Next.js
-- Tailwind CSS, Material UI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,materialui&theme=light" />
+</p>
+
+---
 
 ### ⚙️ Backend
-- Node.js, Express.js
-- RESTful API Development
-- Authentication & Authorization
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-animated-22C55E?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Auth-JWT%20%26%20Sessions-F59E0B?style=for-the-badge" />
+</p>
+
+---
 
 ### 🗄️ Databases
-- MongoDB
-- PostgreSQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=light" />
+</p>
+
+---
 
 ### 🧰 Tools
-- Git & GitHub
-- VS Code
-- Postman
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light" />
+</p>
+
+---
+
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
 
 ---
 
@@ -183,6 +209,7 @@ HTML, CSS, JavaScript
 ---
 
 ⭐ **Open to internships and junior full stack developer opportunities**
+
 
 
 
