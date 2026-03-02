@@ -116,6 +116,31 @@ HTML, CSS, JavaScript
 
 
 ## 📊 GitHub Graphical Statistics
+## 📊 GitHub Graphical Statistics
+
+<!-- Contribution Activity Graph -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shahanaip-dev&theme=github-light&hide_border=true"
+    alt="GitHub contribution graph"
+  />
+</p>
+
+<!-- Coding Streak Graph -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=shahanaip-dev&hide_border=true"
+    alt="GitHub streak graph"
+  />
+</p>
+
+<!-- Language Usage Donut Chart -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahanaip-dev&layout=donut&langs_count=6"
+    alt="Most used programming languages"
+  />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahanaip-dev&theme=github-light&hide_border=true" />
@@ -148,4 +173,5 @@ HTML, CSS, JavaScript
 ---
 
 ⭐ **Open to internships and junior full stack developer opportunities**
+
 
