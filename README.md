@@ -115,31 +115,47 @@ HTML, CSS, JavaScript
 
 
 
-## 🌈 GitHub Graphical Statistics
+## 🎨 GitHub Graphical Statistics
 
-<!-- Contribution Activity Graph (Colorful Gradient) -->
+<!-- 🔵 Contribution Activity Graph (Soft Gradient Style) -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shahanaip-dev&bg_color=ffffff&color=7E3AF2&line=22C55E&point=EF4444&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shahanaip-dev&bg_color=ffffff&color=6366F1&line=06B6D4&point=22C55E&area=true&hide_border=true"
     alt="GitHub contribution activity graph"
   />
 </p>
 
-<!-- Coding Streak Graph (Gradient Colors) -->
+<p align="center"><i>📈 Daily contribution activity over time</i></p>
+
+---
+
+<!-- 🟣 GitHub Statistics Cards (Bold & Clean Style) -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=shahanaip-dev&theme=default&ring=7E3AF2&fire=F59E0B&currStreakNum=22C55E&sideNums=2563EB&hide_border=true"
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=shahanaip-dev&show_icons=true&bg_color=ffffff&title_color=7C3AED&icon_color=F59E0B&text_color=374151&hide_border=true"
+    alt="GitHub statistics card"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahanaip-dev&layout=donut&bg_color=ffffff&title_color=0EA5E9&text_color=374151&hide_border=true"
+    alt="Programming languages donut chart"
+  />
+</p>
+
+<p align="center"><i>📊 Repository statistics and most-used technologies</i></p>
+
+---
+
+<!-- 🔥 Coding Streak Graph (High-Contrast Style) -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=shahanaip-dev&ring=EF4444&fire=F97316&currStreakNum=22C55E&sideNums=2563EB&hide_border=true"
     alt="GitHub coding streak graph"
   />
 </p>
 
-<!-- Language Usage Donut Chart (Vibrant Colors) -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahanaip-dev&layout=donut&langs_count=6&bg_color=ffffff&title_color=7E3AF2&text_color=374151"
-    alt="Most used programming languages donut chart"
-  />
-</p>
+<p align="center"><i>🔥 Consistent coding streak and commitment</i></p>
 ---
 
 ## 🎯 Career Focus
@@ -160,6 +176,7 @@ HTML, CSS, JavaScript
 ---
 
 ⭐ **Open to internships and junior full stack developer opportunities**
+
 
 
 
