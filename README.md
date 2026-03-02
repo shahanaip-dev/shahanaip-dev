@@ -115,43 +115,30 @@ HTML, CSS, JavaScript
 
 
 
-## 📊 GitHub Graphical Statistics
-## 📊 GitHub Graphical Statistics
+## 🌈 GitHub Graphical Statistics
 
-<!-- Contribution Activity Graph -->
+<!-- Contribution Activity Graph (Colorful Gradient) -->
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shahanaip-dev&theme=github-light&hide_border=true"
-    alt="GitHub contribution graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shahanaip-dev&bg_color=ffffff&color=7E3AF2&line=22C55E&point=EF4444&area=true&hide_border=true"
+    alt="GitHub contribution activity graph"
   />
 </p>
 
-<!-- Coding Streak Graph -->
+<!-- Coding Streak Graph (Gradient Colors) -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=shahanaip-dev&hide_border=true"
-    alt="GitHub streak graph"
+    src="https://streak-stats.demolab.com?user=shahanaip-dev&theme=default&ring=7E3AF2&fire=F59E0B&currStreakNum=22C55E&sideNums=2563EB&hide_border=true"
+    alt="GitHub coding streak graph"
   />
 </p>
 
-<!-- Language Usage Donut Chart -->
+<!-- Language Usage Donut Chart (Vibrant Colors) -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahanaip-dev&layout=donut&langs_count=6"
-    alt="Most used programming languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahanaip-dev&layout=donut&langs_count=6&bg_color=ffffff&title_color=7E3AF2&text_color=374151"
+    alt="Most used programming languages donut chart"
   />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahanaip-dev&theme=github-light&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shahanaip-dev&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahanaip-dev&layout=donut" />
 </p>
 ---
 
@@ -173,5 +160,6 @@ HTML, CSS, JavaScript
 ---
 
 ⭐ **Open to internships and junior full stack developer opportunities**
+
 
 
