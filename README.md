@@ -2,30 +2,41 @@
 <h3 align="center">MERN Stack Developer | Full Stack Web Developer | MCA Graduate</h3>
 
 <p align="center">
-  <a href="https://github.com/shahanaip-dev">
-    <img src="https://komarev.com/ghpvc/?username=shahanaip-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=shahanaip-dev&label=Profile%20Views&color=6366F1&style=flat" />
+</p>
+
+---
+
+<!-- Animated Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Scalable+Web+Applications;Passionate+About+Clean+Code" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am **Fathima Shahana IP**, a **MERN Stack Developer** and **MCA graduate (2022)** from Kerala, India.  
-I specialize in building **scalable, secure, and user-friendly web applications** using modern web technologies.
+<p align="center">
+I am <b>Fathima Shahana IP</b>, a <b>MERN Stack Developer</b> and <b>MCA graduate (2022)</b> from Kerala, India.<br/>
+I specialize in building <b>secure, scalable, and user-friendly web applications</b>.
+</p>
 
-- 🔭 Currently working as a **Full Stack Developer Intern**
-- 🌱 Learning **Advanced React, Next.js, and System Design**
-- 💡 Strong interest in **clean code and best practices**
-- 🎯 Actively seeking **junior full stack / MERN developer roles**
+<p align="center">
+🔭 Full Stack Developer Intern<br/>
+🌱 Learning Advanced React, Next.js & System Design<br/>
+💡 Clean Code & Best Practices Enthusiast<br/>
+🎯 Actively seeking junior MERN / Full Stack roles
+</p>
 
 ---
 
-## 🔑Keywords
+## 🔑 Keywords
 
-`MERN Stack Developer` • `Full Stack Developer` • `React Developer` •  
-`Node.js Developer` • `JavaScript Developer` • `MongoDB` • `PostgreSQL` •  
-`Web Developer` • `Software Engineer Fresher` • `GitHub Portfolio`
+<p align="center">
+<code>MERN Stack Developer</code> • <code>Full Stack Developer</code> • <code>React Developer</code> •
+<code>Node.js</code> • <code>MongoDB</code> • <code>PostgreSQL</code> •
+<code>JavaScript</code> • <code>GitHub Portfolio</code>
+</p>
 
 ---
 
@@ -33,17 +44,13 @@ I specialize in building **scalable, secure, and user-friendly web applications*
 
 <!-- Animated Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Technologies+I+Work+With;MERN+Stack+%7C+Full+Stack+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=520&lines=Technologies+I+Work+With;MERN+Stack+%7C+Full+Stack+Development" />
 </p>
-
----
 
 ### 💻 Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,materialui&theme=light" />
 </p>
-
----
 
 ### ⚙️ Backend
 <p align="center">
@@ -51,18 +58,14 @@ I specialize in building **scalable, secure, and user-friendly web applications*
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REST%20API-animated-22C55E?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-22C55E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Auth-JWT%20%26%20Sessions-F59E0B?style=for-the-badge" />
 </p>
-
----
 
 ### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=light" />
 </p>
-
----
 
 ### 🧰 Tools
 <p align="center">
@@ -73,146 +76,98 @@ I specialize in building **scalable, secure, and user-friendly web applications*
 
 <!-- Animated Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
 </p>
 
 ---
 
 ## 💼 Experience
 
-### Full Stack Developer Intern — **Bairuha Tech**
-📍 Kozhikode, India  
-🗓️ Jan 2026 – Present
+<p align="center"><b>Full Stack Developer Intern — Bairuha Tech</b><br/>
+Kozhikode, India | Jan 2026 – Present</p>
 
-- Developing real-world web applications using MERN stack
-- Collaborating in a team-based Agile environment
-- Implementing backend APIs and frontend UI components
-- Participating in code reviews and GitHub workflows
+<p align="center">
+• MERN stack web development<br/>
+• Agile team collaboration<br/>
+• API & UI implementation<br/>
+• GitHub-based workflows
+</p>
 
----
+<p align="center"><b>MERN Stack Developer Intern — Futura Labs</b><br/>
+Kozhikode, India | Jun 2025 – Dec 2025</p>
 
-### MERN Stack Developer Intern — **Futura Labs**
-📍 Kozhikode, India  
-🗓️ Jun 2025 – Dec 2025
-
-- Built responsive full stack applications using MERN
-- Created reusable React components using hooks
-- Developed REST APIs for authentication and CRUD operations
+<p align="center">
+• Built responsive MERN applications<br/>
+• Reusable React components<br/>
+• REST APIs & authentication
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### 🏠 Rent-Well – Online Rental Management System
-**Description:**  
-A full-stack rental management system for handling property listings, users, and bookings.
-
-**Features:**
-- Property listing and management
-- User authentication
-- Booking operations with database integration
-
-**Tech Stack:**  
-Python, Flask, HTML, CSS, Database
-
----
-
-### ✅ Task Management System (MERN Stack)
-**Description:**  
-A full-stack task management web application to organize and track daily tasks efficiently.
-
-**Features:**
-- User authentication
-- Create, update, delete, and track tasks
-- Responsive UI with secure backend
-
-**Tech Stack:**  
-MongoDB, Express.js, React.js, Node.js
-
----
-
-### 🌦️ Weather App
-A simple weather-checking web application.
-
-**Tech Stack:**  
-HTML, CSS, JavaScript
-
----
-
-
-
-## 🎨 GitHub Contribution Activity Graph
-
-<!-- 🔵 Contribution Activity Graph (Soft Gradient Style) -->
+<p align="center"><b>🏠 Rent-Well – Online Rental Management System</b></p>
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shahanaip-dev&bg_color=ffffff&color=6366F1&line=06B6D4&point=22C55E&area=true&hide_border=true"
-    alt="GitHub contribution activity graph"
-  />
+Property listings • User authentication • Booking management<br/>
+<b>Tech:</b> Python, Flask, HTML, CSS
 </p>
 
-<p align="center"><i>📈 Daily contribution activity over time</i></p>
+<p align="center"><b>✅ Task Management System (MERN)</b></p>
+<p align="center">
+Auth • CRUD tasks • Responsive UI<br/>
+<b>Tech:</b> MongoDB, Express, React, Node.js
+</p>
+
+<p align="center"><b>🌦️ Weather App</b><br/>
+HTML • CSS • JavaScript</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahanaip-dev&bg_color=ffffff&color=6366F1&line=06B6D4&point=22C55E&area=true&hide_border=true" />
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<!-- Main Profile Summary -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahanaip-dev&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahanaip-dev&theme=tokyonight" />
 </p>
 
-<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahanaip-dev&theme=github_dark&utcOffset=5.5" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahanaip-dev&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahanaip-dev&theme=tokyonight" />
 </p>
 
-<!-- Repo & Language Stats -->
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahanaip-dev&theme=github_dark" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahanaip-dev&theme=github_dark" />
-</p>
-
-<!-- Stats Cards -->
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahanaip-dev&theme=github_dark" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahanaip-dev&theme=github_dark&utcOffset=5.5" />
-</p>
 ---
 
-<!-- 🔥 Coding Streak Graph (High-Contrast Style) -->
+## 🔥 Coding Streak
+
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=shahanaip-dev&ring=EF4444&fire=F97316&currStreakNum=22C55E&sideNums=2563EB&hide_border=true"
-    alt="GitHub coding streak graph"
-  />
+  <img src="https://streak-stats.demolab.com?user=shahanaip-dev&theme=default&hide_border=true" />
 </p>
 
-<p align="center"><i>🔥 Consistent coding streak and commitment</i></p>
 ---
 
 ## 🎯 Career Focus
 
-- MERN Stack Development
-- Advanced React & Next.js
-- Data Structures & Algorithms
-- Clean Code & Best Practices
+<p align="center">
+MERN Stack • Advanced React & Next.js • DSA • Clean Code
+</p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-- 📧 Email: **shahanaip222@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/fathima-shahanaip/
-- 🐙 GitHub: https://github.com/shahanaip-dev
+<p align="center">
+📧 <b>shahanaip222@gmail.com</b><br/>
+💼 <a href="https://www.linkedin.com/in/fathima-shahanaip/">LinkedIn</a><br/>
+🐙 <a href="https://github.com/shahanaip-dev">GitHub</a>
+</p>
 
 ---
 
-⭐ **Open to internships and junior full stack developer opportunities**
-
-
-
-
-
-
-
+<p align="center"><b>⭐ Open to internships and junior full stack developer opportunities</b></p>
