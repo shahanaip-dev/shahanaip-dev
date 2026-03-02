@@ -113,16 +113,21 @@ HTML, CSS, JavaScript
 
 ---
 
-## 📊 GitHub Statistics
+
+
+## 📊 GitHub Graphical Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahanaip-dev&show_icons=true&theme=default" alt="GitHub stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahanaip-dev&theme=github-light&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahanaip-dev&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=shahanaip-dev&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahanaip-dev&layout=donut" />
+</p>
 ---
 
 ## 🎯 Career Focus
@@ -143,3 +148,4 @@ HTML, CSS, JavaScript
 ---
 
 ⭐ **Open to internships and junior full stack developer opportunities**
+
