@@ -10,9 +10,18 @@
   <img src="https://komarev.com/ghpvc/?username=shahanaip-dev&label=Profile%20Views&color=6366F1&style=flat" />
 </p>
 
-<!-- ⌨️ Animated Typing Intro -->
+<!-- ⌨️ Animated Typing -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Building+Scalable+Web+Applications;Passionate+About+Clean+Code" />
+</p>
+
+<!-- 👩‍💻 Girl Coder Illustration -->
+<p align="center">
+  <img 
+    src="a_modern_digital_digital_illustration_in_a_flat_i.png"
+    alt="Female coder working on dual monitors"
+    width="500"
+  />
 </p>
 
 <hr/>
@@ -21,7 +30,7 @@
 
 <p align="center">
 I am <b>Fathima Shahana IP</b>, a <b>MERN Stack Developer</b> and <b>MCA graduate (2022)</b> from Kerala, India.<br/>
-I specialize in building <b>secure, scalable, and user-friendly web applications</b> using modern web technologies.
+I specialize in building <b>secure, scalable, and user-friendly web applications</b>.
 </p>
 
 <p align="center">
@@ -29,11 +38,6 @@ I specialize in building <b>secure, scalable, and user-friendly web applications
 🌱 Learning Advanced React, Next.js & System Design<br/>
 💡 Clean Code & Best Practices Enthusiast<br/>
 🎯 Actively seeking junior MERN / Full Stack roles
-</p>
-
-<!-- 👨‍💻 Coding Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 </p>
 
 <hr/>
@@ -56,12 +60,12 @@ I specialize in building <b>secure, scalable, and user-friendly web applications
 
 <h3 align="center">💻 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,materialui&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,materialui" />
 </p>
 
 <h3 align="center">⚙️ Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 <p align="center">
@@ -79,34 +83,8 @@ I specialize in building <b>secure, scalable, and user-friendly web applications
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-<!-- 🎨 Animated Divider -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-</p>
-
-<h2 align="center">💼 Experience</h2>
-
-<p align="center">
-<b>Full Stack Developer Intern — Bairuha Tech</b><br/>
-Kozhikode, India | Jan 2026 – Present
-</p>
-
-<p align="center">
-• MERN stack web development<br/>
-• Agile team collaboration<br/>
-• Backend API & frontend UI implementation<br/>
-• GitHub-based workflows
-</p>
-
-<p align="center">
-<b>MERN Stack Developer Intern — Futura Labs</b><br/>
-Kozhikode, India | Jun 2025 – Dec 2025
-</p>
-
-<p align="center">
-• Built responsive MERN applications<br/>
-• Reusable React components<br/>
-• REST APIs & authentication
 </p>
 
 <hr/>
