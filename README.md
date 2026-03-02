@@ -18,7 +18,7 @@
 <!-- 👩‍💻 Girl Coder Illustration -->
 <p align="center">
   <img 
-    src="a_modern_digital_digital_illustration_in_a_flat_i.png"
+    src="https://raw.githubusercontent.com/shahanaip-dev/shahanaip-dev/main/shahana.png"
     alt="Female coder working on dual monitors"
     width="500"
   />
@@ -163,3 +163,4 @@ MERN Stack • Advanced React & Next.js • Data Structures & Algorithms • Cle
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+
