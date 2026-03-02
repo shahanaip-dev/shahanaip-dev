@@ -1,3 +1,8 @@
+<!-- 🌊 Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Fathima Shahana IP</h1>
 <h3 align="center">MERN Stack Developer | Full Stack Web Developer | MCA Graduate</h3>
 
@@ -5,20 +10,18 @@
   <img src="https://komarev.com/ghpvc/?username=shahanaip-dev&label=Profile%20Views&color=6366F1&style=flat" />
 </p>
 
----
-
-<!-- Animated Intro -->
+<!-- ⌨️ Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Building+Scalable+Web+Applications;Passionate+About+Clean+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Building+Scalable+Web+Applications;Passionate+About+Clean+Code" />
 </p>
 
----
+<hr/>
 
-## 👩‍💻 About Me
+<h2 align="center">👩‍💻 About Me</h2>
 
 <p align="center">
 I am <b>Fathima Shahana IP</b>, a <b>MERN Stack Developer</b> and <b>MCA graduate (2022)</b> from Kerala, India.<br/>
-I specialize in building <b>secure, scalable, and user-friendly web applications</b>.
+I specialize in building <b>secure, scalable, and user-friendly web applications</b> using modern web technologies.
 </p>
 
 <p align="center">
@@ -28,9 +31,14 @@ I specialize in building <b>secure, scalable, and user-friendly web applications
 🎯 Actively seeking junior MERN / Full Stack roles
 </p>
 
----
+<!-- 👨‍💻 Coding Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+</p>
 
-## 🔑 Keywords
+<hr/>
+
+<h2 align="center">🔑 Keywords</h2>
 
 <p align="center">
 <code>MERN Stack Developer</code> • <code>Full Stack Developer</code> • <code>React Developer</code> •
@@ -38,23 +46,22 @@ I specialize in building <b>secure, scalable, and user-friendly web applications
 <code>JavaScript</code> • <code>GitHub Portfolio</code>
 </p>
 
----
+<hr/>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<!-- Animated Title -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=520&lines=Technologies+I+Work+With;MERN+Stack+%7C+Full+Stack+Development" />
 </p>
 
-### 💻 Frontend
+<h3 align="center">💻 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,materialui&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,materialui&perline=7" />
 </p>
 
-### ⚙️ Backend
+<h3 align="center">⚙️ Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=5" />
 </p>
 
 <p align="center">
@@ -62,39 +69,39 @@ I specialize in building <b>secure, scalable, and user-friendly web applications
   <img src="https://img.shields.io/badge/Auth-JWT%20%26%20Sessions-F59E0B?style=for-the-badge" />
 </p>
 
-### 🗄️ Databases
+<h3 align="center">🗄️ Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
-### 🧰 Tools
+<h3 align="center">🧰 Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
----
-
-<!-- Animated Divider -->
+<!-- 🎨 Animated Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 </p>
 
----
+<h2 align="center">💼 Experience</h2>
 
-## 💼 Experience
-
-<p align="center"><b>Full Stack Developer Intern — Bairuha Tech</b><br/>
-Kozhikode, India | Jan 2026 – Present</p>
+<p align="center">
+<b>Full Stack Developer Intern — Bairuha Tech</b><br/>
+Kozhikode, India | Jan 2026 – Present
+</p>
 
 <p align="center">
 • MERN stack web development<br/>
 • Agile team collaboration<br/>
-• API & UI implementation<br/>
+• Backend API & frontend UI implementation<br/>
 • GitHub-based workflows
 </p>
 
-<p align="center"><b>MERN Stack Developer Intern — Futura Labs</b><br/>
-Kozhikode, India | Jun 2025 – Dec 2025</p>
+<p align="center">
+<b>MERN Stack Developer Intern — Futura Labs</b><br/>
+Kozhikode, India | Jun 2025 – Dec 2025
+</p>
 
 <p align="center">
 • Built responsive MERN applications<br/>
@@ -102,9 +109,9 @@ Kozhikode, India | Jun 2025 – Dec 2025</p>
 • REST APIs & authentication
 </p>
 
----
+<hr/>
 
-## 🚀 Projects
+<h2 align="center">🚀 Projects</h2>
 
 <p align="center"><b>🏠 Rent-Well – Online Rental Management System</b></p>
 <p align="center">
@@ -114,24 +121,26 @@ Property listings • User authentication • Booking management<br/>
 
 <p align="center"><b>✅ Task Management System (MERN)</b></p>
 <p align="center">
-Auth • CRUD tasks • Responsive UI<br/>
+Authentication • CRUD operations • Responsive UI<br/>
 <b>Tech:</b> MongoDB, Express, React, Node.js
 </p>
 
-<p align="center"><b>🌦️ Weather App</b><br/>
-HTML • CSS • JavaScript</p>
-
----
-
-## 📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahanaip-dev&bg_color=ffffff&color=6366F1&line=06B6D4&point=22C55E&area=true&hide_border=true" />
+<b>🌦️ Weather App</b><br/>
+HTML • CSS • JavaScript
 </p>
 
----
+<hr/>
 
-## 📊 GitHub Statistics
+<h2 align="center">📈 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahanaip-dev&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+<hr/>
+
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahanaip-dev&theme=tokyonight" />
@@ -142,25 +151,25 @@ HTML • CSS • JavaScript</p>
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahanaip-dev&theme=tokyonight" />
 </p>
 
----
+<hr/>
 
-## 🔥 Coding Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shahanaip-dev&theme=default&hide_border=true" />
-</p>
-
----
-
-## 🎯 Career Focus
+<h2 align="center">🔥 Coding Streak</h2>
 
 <p align="center">
-MERN Stack • Advanced React & Next.js • DSA • Clean Code
+  <img src="https://streak-stats.demolab.com?user=shahanaip-dev&hide_border=true" />
 </p>
 
----
+<hr/>
 
-## 📫 Contact
+<h2 align="center">🎯 Career Focus</h2>
+
+<p align="center">
+MERN Stack • Advanced React & Next.js • Data Structures & Algorithms • Clean Code
+</p>
+
+<hr/>
+
+<h2 align="center">📫 Contact</h2>
 
 <p align="center">
 📧 <b>shahanaip222@gmail.com</b><br/>
@@ -168,6 +177,11 @@ MERN Stack • Advanced React & Next.js • DSA • Clean Code
 🐙 <a href="https://github.com/shahanaip-dev">GitHub</a>
 </p>
 
----
+<p align="center">
+<b>⭐ Open to internships and junior full stack developer opportunities</b>
+</p>
 
-<p align="center"><b>⭐ Open to internships and junior full stack developer opportunities</b></p>
+<!-- 🌊 Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
